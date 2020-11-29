@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:textColor="@android:color/black"
-            android:textSize="24sp"
+            android:textSize="24dp"
              />
     </ScrollView>
 </android.support.constraint.ConstraintLayout>

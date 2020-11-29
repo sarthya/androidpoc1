@@ -1,8 +1,0 @@
-.gradle
-.idea
-.gitignore
-sundar_kand.iml
-local.properties
-gradlew
-/gradle
-/app/build
